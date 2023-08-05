@@ -1,0 +1,53 @@
+.logo{
+    margin-left: 100px;
+}
+
+
+#home{
+    display: inline;
+    float: right;
+    margin-right: 20%;
+    margin-top: 1.5%;
+    font-size: 20px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(224, 55, 224);
+}
+
+.login-form{
+    background-color:  rgba(207, 99, 207, 0.232);
+   
+}
+fieldset{
+    border: 0px;
+}
+
+form{
+    border: 1px solid black;
+    width: 30%;
+    margin: 0 auto;
+}
+.input-responsive{
+    width: 96%;
+    padding: 1%;
+    margin-bottom: 3%;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+.label{
+    margin-bottom: 1%; 
+    font-weight: bold;
+}
+
+h2,h3{
+    text-align: center; 
+    margin-top: 1%;
+}
+
+
